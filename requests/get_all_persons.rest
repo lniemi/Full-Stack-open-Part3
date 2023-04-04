@@ -1,0 +1,3 @@
+GET http://localhost:3001/api/persons
+
+# This is for testing purporses. It returns every person in the phonebook
