@@ -1,3 +1,3 @@
-DELETE http://localhost:3001/api/persons/1
+DELETE http://localhost:3001/api/persons/8870
 
 # This is for testing purposes. It deletes the first object
