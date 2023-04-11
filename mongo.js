@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 const password = process.argv[2]
 
-const url = `mongodb+srv://leopniemi:${password}@cluster0.0ug8upe.mongodb.net/Part3?retryWrites=true&w=majority`
+const url = `mongodb+srv://leopniemi:${password}@cluster0.pjpgrgn.mongodb.net/Part3?retryWrites=true&w=majority`
 
 mongoose.set('strictQuery', false)
 mongoose.connect(url)
